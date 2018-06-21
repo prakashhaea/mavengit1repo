@@ -5,7 +5,7 @@
   <groupId>com.kia</groupId>
   <artifactId>mavengit1</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <packaging>jar</packaging>
+  <packaging>jar</packaging> <!-- comment -->
 
   <name>mavengit1</name>
   <url>http://maven.apache.org</url>
